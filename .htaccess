@@ -1,0 +1,3 @@
+RewriteEngine On
+RewriteCond %{http_host} ^coderdojo-nara-ikoma.github.io
+RewriteRule ^(.*) https://coderdojo-nara.github.io/$1 [R=301,L]
