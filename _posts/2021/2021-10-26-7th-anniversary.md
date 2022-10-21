@@ -4,6 +4,7 @@ date: 2021-10-26T20:00:00+09:00
 author: kwaka1208
 layout: single
 permalink: /blog/7th-anniversary/
+redirect_to: https://coderdojo-nara.github.io/blog/7th-anniversary/
 categories:
   - blog
 header:

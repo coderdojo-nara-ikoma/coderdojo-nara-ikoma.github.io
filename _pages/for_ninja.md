@@ -2,6 +2,7 @@
 title: ニンジャと保護者のみなさんへ
 layout: single
 permalink: /for_ninja/
+redirect_to: https://coderdojo-nara.github.io/for_ninja/
 ---
 CoderDojo奈良・CoderDojo生駒への参加ありがとうございます。  ニンジャと保護者のみなさんにお伝えすることをこのページにまとめていますので、ご一読をお願いします。
 

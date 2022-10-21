@@ -2,6 +2,7 @@
 title:  メンター参加希望・見学希望者向けガイダンス
 layout: single
 permalink: /guidance/
+redirect_to: https://coderdojo-nara.github.io/guidance/
 ---
 CoderDojoの活動に関心をもってくださって、ありがとうございます。
 こちらは、メンターとして参加を希望される方、もしくは見学を希望される方向けの案内です。

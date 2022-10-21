@@ -2,6 +2,7 @@
 title: CoderDojo Community Platform Zenへの登録方法
 layout: single
 permalink: /zen/
+redirect_to: https://coderdojo-nara.github.io/zen/
 ---
 ## zenへの登録について
 「CoderDojo Community Platform Zen」とは、アイルランドのCoderDojo Foundationが開発・提供しているサービスで、Dojoのイベント管理機能やフォーラム（掲示板）などの機能があります。

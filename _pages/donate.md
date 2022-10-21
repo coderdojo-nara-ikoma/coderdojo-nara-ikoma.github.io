@@ -2,6 +2,7 @@
 title: 寄付について
 layout: single
 permalink: /donate/
+redirect_to: https://coderdojo-nara.github.io/donate/
 ---		
 CoderDojoは、非営利の活動であり参加者から費用をいただいていません。メンターとして参加してくださるみなさんもすべてボランティアであり、報酬はもちろん交通費もすべて自己負担で参加してくださっています。
 

@@ -4,6 +4,7 @@ date: 2017-07-13T23:30:00+09:00
 author: kwaka1208
 layout: single
 permalink: /blog/progate_for_school/
+redirect_to: https://coderdojo-nara.github.io/blog/progate_for_school/
 categories:
   - blog
 ---

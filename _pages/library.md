@@ -2,6 +2,7 @@
 layout: single
 title:  "CoderDojo奈良・生駒ライブラリ"
 permalink: /library/
+redirect_to: https://coderdojo-nara.github.io/library/
 ---
 CoderDojo奈良・生駒では、Dojoに参加する子どもたちで共有するために寄付でいただいたお金で本を購入していましたが、最近は著者の方からプログラミングに関する本を献呈いただくことも多くなったこともあって、蔵書が増えてきました。
 

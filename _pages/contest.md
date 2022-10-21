@@ -2,6 +2,7 @@
 layout: single
 title:  "プログラミングコンテストリンク集"
 permalink: /contest/
+redirect_to: https://coderdojo-nara.github.io/contest/
 ---
 
 こちらのページでは、プログラミングコンテストの関連情報をまとめています。他にもこんなコンテストがあるよという情報があれば、[nara.jp@coderdojo.com](mailto:nara.jp@coderdojo.com)までお知らせいただけると助かります。

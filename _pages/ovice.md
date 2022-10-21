@@ -2,6 +2,7 @@
 layout: single
 title:  "oViceについて"
 permalink: /ovice/
+redirect_to: https://coderdojo-nara.github.io/ovice/
 ---
 oViceは、2次元で表示されたオンライン上の会場を自由に移動しながら会場内の方と交流できるオンラインツールです。
 

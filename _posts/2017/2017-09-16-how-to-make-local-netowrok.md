@@ -4,6 +4,7 @@ date: 2017-09-16T23:30:00+09:00
 author: kwaka1208
 layout: single
 permalink: /blog/how-create-local-netowrk/
+redirect_to: https://coderdojo-nara.github.io/blog/how-create-local-netowrk/
 categories:
   - blog
 ---
