@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /
-redirect_to: https://coderdojo-nara.github.io/
+redirect_to: https://nara-coderdojo.github.io/
 header:
   overlay_color: "#00f"
   overlay_filter: "0.5"

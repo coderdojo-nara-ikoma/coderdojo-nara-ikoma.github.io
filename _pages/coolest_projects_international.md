@@ -2,7 +2,7 @@
 layout: single
 title:  "Coolest Projects Globalについて"
 permalink: /coolest_projects_international/
-redirect_to: https://coderdojo-nara.github.io/coolest_projects_international/
+redirect_to: https://nara-coderdojo.github.io/coolest_projects_international/
 ---
 今年もCoolest Projects Globalは、[Coolest Projects Online](https://coolestprojects.org/)としてオンラインでの開催となり、全世界からエントリーできます。ぜひ日本からもエントリーしましょう！
 

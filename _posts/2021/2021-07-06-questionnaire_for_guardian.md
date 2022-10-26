@@ -4,7 +4,7 @@ date: 2021-07-17T14:00:00+09:00
 author: kwaka1208
 layout: single
 permalink: /blog/questionnaire_for_guardian/
-redirect_to: https://coderdojo-nara.github.io/blog/questionnaire_for_guardian/
+redirect_to: https://nara-coderdojo.github.io/blog/questionnaire_for_guardian/
 categories:
   - blog
 ---

@@ -4,7 +4,7 @@ date: 2016-11-01T23:30:00+09:00
 author: kwaka1208
 layout: single
 permalink: /blog/computer-science-for-all/
-redirect_to: https://coderdojo-nara.github.io/blog/computer-science-for-all/
+redirect_to: https://nara-coderdojo.github.io/blog/computer-science-for-all/
 categories:
   - blog
 ---

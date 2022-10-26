@@ -4,7 +4,7 @@ date: 2015-09-13T01:51:12+09:00
 author: kwaka1208
 layout: single
 permalink: /blog/coderdojonara9th/
-redirect_to: https://coderdojo-nara.github.io/blog/coderdojonara9th/
+redirect_to: https://nara-coderdojo.github.io/blog/coderdojonara9th/
 geo_public:
   - "0"
 categories:

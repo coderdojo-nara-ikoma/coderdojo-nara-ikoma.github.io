@@ -2,7 +2,7 @@
 title: CoderDojoとは
 layout: single
 permalink: /about/
-redirect_to: https://coderdojo-nara.github.io/about/
+redirect_to: https://nara-coderdojo.github.io/about/
 ---
 CoderDojoとは「ボランティアによる若い人たちのための無料のプログラミングクラブ」で、2011年にアイルランドで始まった世界的な活動です。
 CoderDojoとは何かを知っていただくために、アイルランドのCoderDojo Foundationが掲げる考え方を紹介します。

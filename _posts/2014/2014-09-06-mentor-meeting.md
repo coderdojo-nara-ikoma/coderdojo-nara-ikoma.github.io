@@ -4,7 +4,7 @@ date: 2014-09-06T18:10:56+09:00
 author: kwaka1208
 layout: single
 permalink: /blog/mentor-meeting/
-redirect_to: https://coderdojo-nara.github.io/blog/mentor-meeting/
+redirect_to: https://nara-coderdojo.github.io/blog/mentor-meeting/
 geo_public:
   - "0"
 categories:

@@ -4,7 +4,7 @@ date: 2018-09-29T12:00:00+09:00
 author: kwaka1208
 layout: single
 permalink: /blog/scrapdojo-vol1/
-redirect_to: https://coderdojo-nara.github.io/blog/scrapdojo-vol1/
+redirect_to: https://nara-coderdojo.github.io/blog/scrapdojo-vol1/
 categories:
   - blog
 ---

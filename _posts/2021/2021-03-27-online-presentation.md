@@ -4,7 +4,7 @@ date: 2021-03-27T13:00:00+09:00
 author: kwaka1208
 layout: single
 permalink: /blog/2021-03-27-online-presentation/
-redirect_to: https://coderdojo-nara.github.io/blog/2021-03-27-online-presentation/
+redirect_to: https://nara-coderdojo.github.io/blog/2021-03-27-online-presentation/
 categories:
   - blog
 ---

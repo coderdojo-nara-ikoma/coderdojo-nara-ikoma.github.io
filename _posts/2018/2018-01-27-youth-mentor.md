@@ -4,7 +4,7 @@ date: 2018-01-27T01:05:00+09:00
 author: kwaka1208
 layout: single
 permalink: /blog/youth-mentor/
-redirect_to: https://coderdojo-nara.github.io/blog/youth-mentor/
+redirect_to: https://nara-coderdojo.github.io/blog/youth-mentor/
 categories:
   - blog
 ---

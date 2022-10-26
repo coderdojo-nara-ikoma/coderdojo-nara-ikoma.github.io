@@ -2,7 +2,7 @@
 title: CoderDojo奈良・生駒Discordについて
 layout: single
 permalink: /discord/
-redirect_to: https://coderdojo-nara.github.io/discord/
+redirect_to: https://nara-coderdojo.github.io/discord/
 ---
 CoderDojo奈良・生駒では、ニンジャとメンター、保護者相互の交流のために[Discord](https://discord.com/){:target="_blank"}のサーバーを運用しています。
 

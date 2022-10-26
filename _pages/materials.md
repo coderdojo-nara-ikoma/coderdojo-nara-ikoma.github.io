@@ -2,7 +2,7 @@
 title: 道具と素材
 layout: single
 permalink: /materials/index.html
-redirect_to: https://coderdojo-nara.github.io/materials/index.html
+redirect_to: https://nara-coderdojo.github.io/materials/index.html
 ---
 こちらのページでは、プログラミングやweb制作で使えるツールや素材のサイトを紹介しています。
 

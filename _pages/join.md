@@ -2,7 +2,7 @@
 title: 参加する
 layout: single
 permalink: /join/
-redirect_to: https://coderdojo-nara.github.io/join/
+redirect_to: https://nara-coderdojo.github.io/join/
 ---		
 CoderDojoへの参加に関心を持ってくださり、ありがとうございます。ご参加いただく前に、今一度私たちの活動について説明させてください。
 

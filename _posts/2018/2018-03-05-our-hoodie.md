@@ -4,7 +4,7 @@ date: 2018-03-05T23:45:00+09:00
 author: kwaka1208
 layout: single
 permalink: /blog/our-hoodie/
-redirect_to: https://coderdojo-nara.github.io/blog/our-hoodie/
+redirect_to: https://nara-coderdojo.github.io/blog/our-hoodie/
 categories:
   - blog
 ---

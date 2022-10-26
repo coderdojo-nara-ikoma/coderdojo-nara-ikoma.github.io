@@ -4,7 +4,7 @@ date: 2018-09-01T23:00:00+09:00
 author: kwaka1208
 layout: single
 permalink: /blog/the-new-champion/
-redirect_to: https://coderdojo-nara.github.io/blog/the-new-champion/
+redirect_to: https://nara-coderdojo.github.io/blog/the-new-champion/
 categories:
   - blog
 ---

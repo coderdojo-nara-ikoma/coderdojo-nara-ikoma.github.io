@@ -4,7 +4,7 @@ date: 2017-11-25T00:00:00+09:00
 author: kwaka1208
 layout: single
 permalink: /blog/calendar/
-redirect_to: https://coderdojo-nara.github.io/blog/calendar/
+redirect_to: https://nara-coderdojo.github.io/blog/calendar/
 categories:
   - blog
 ---
